@@ -68,7 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="contact.html" />
-    <Content Include="homeindex.html" />
+    <Content Include="index.html" />
     <Content Include="links.html" />
     <Content Include="projects.html" />
     <Content Include="resume.html" />
